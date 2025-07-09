@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/repnba/',
+  plugins: [react()],
+  base: '/repnba/'
   // ...otros ajustes si tienes
 });
