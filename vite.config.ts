@@ -14,5 +14,5 @@ export default defineConfig(({ mode }) => {
         }
       }
     };
-    base:"/reportenba",
+    base:"/repnba",
 });
